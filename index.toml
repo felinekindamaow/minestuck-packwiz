@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".editorconfig"
-hash = "1029a931fa7eec6f99f82438f8ca10778bef631a9a64c265255309cbb5045edf"
-
-[[files]]
 file = "emotes/Dance (Ralsei).emotecraft"
 hash = "e7eac43d03fb92a561b1921dc3804128948d9e2281f5762bd9c60f1f9f330192"
 
@@ -568,7 +564,3 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
-
-[[files]]
-file = "txt2packwiz.ps1"
-hash = "6b4d79cb2487e346ece06f65aa9fa4690a3f0fb220fd281b3851ff612a586d74"
