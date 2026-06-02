@@ -26,11 +26,11 @@ hash = "3086cd93b66c1a91d4bf2b6d70e3212905e4133f26cd1c6a97c42678a0a55b0f"
 
 [[files]]
 file = "kubejs/assets/minecraft/sounds.json"
-hash = "d191d5cf7d268248f3140c07e07467efdd95d0730d2a70171653a91d82a9bad1"
+hash = "0251624a317c86e753941d1d6d64740286071cbf612018e7626aedb888e7b0ed"
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
-hash = "9584acc7f988bee5a8190c99c2c1073c3ea24098bbb8194260dd43e149ba5995"
+hash = "f0be9d73c21e79fcc7838a8abc6f367c70a71d1259f010f70fe235870b902ba0"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
@@ -50,15 +50,15 @@ hash = "53381bd05ad7277e1cc50390707c8403166b45736a3b720ffdb7fa5027a28501"
 
 [[files]]
 file = "kubejs/client_scripts/client_script.js"
-hash = "1589ff231156e5f26803c99dd938dc8e8843f2ffa9d07e0e3b295fdef9f1e3d1"
+hash = "4a65ecc7e09749048e0083c3de75b97fbe35268100c9189ffa163d0ec9991f33"
 
 [[files]]
 file = "kubejs/client_scripts/file_modding.js"
-hash = "a7e31a81ef7cdf769fb4320a48953910d4d8c1b6e3457df0000e6d8fa9179c41"
+hash = "8488bd69a9bbc4907261f3fbb06b34a4697bf2aa0a87ac37d29480445f138a36"
 
 [[files]]
 file = "kubejs/startup_scripts/unifier.js"
-hash = "ec890b03819d59f7780f31951d4a3e8caf837c01272daf88d241253fbe6abc37"
+hash = "08be81e6b1213b574bd8c261158937462e18f72f724b57b45c95a20f8d1bb9e2"
 
 [[files]]
 file = "mods/admin-chunk-manager.pw.toml"
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/extralib.pw.toml"
-hash = "4ae7c34ef077695621c3d8b794e520976971e11d7b0c79da2353fe7051281132"
+hash = "f148ff199a595313e48fa6931686606ed83d5806fcdafbd95b376721000aaabe"
 metafile = true
 
 [[files]]
