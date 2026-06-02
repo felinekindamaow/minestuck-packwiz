@@ -14,7 +14,7 @@ RecipeViewerEvents.removeEntries('item', event => {
   global.HIDE_JEI.forEach(entry => {
     event.remove(entry);
   });
-  
+
   event.remove('extrastuck:office_key');
   event.remove('extrastuck:handgun');
   event.remove('extrastuck:handgun_bullet');
