@@ -1,0 +1,13 @@
+name = "Peruvian's Delight"
+filename = "peruviansdelight-1.21.1-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z2IaTted/versions/RndbEKJz/peruviansdelight-1.21.1-1.3.0.jar"
+hash-format = "sha512"
+hash = "e1831729613f0e021dcae93c5ba4e1af55925215859a53186daa5f3f8e71244f9fc3e8c7683d5bcc46db59f727fb7d89591076dd62238c477311aff3528c050d"
+
+[update]
+[update.modrinth]
+mod-id = "Z2IaTted"
+version = "RndbEKJz"

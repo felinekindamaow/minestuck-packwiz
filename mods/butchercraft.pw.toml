@@ -1,0 +1,13 @@
+name = "Butchercraft"
+filename = "butchercraft-2.6.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MT2Xm0ih/versions/zv719GLo/butchercraft-2.6.5.jar"
+hash-format = "sha512"
+hash = "85d761f865e39d80a1746f1e75d26da75bc7ff5f3b647555877adadd65acbd75f4577d731208a72bd7846796e0bde515e1612f824d034a96d3c26d43bba572ee"
+
+[update]
+[update.modrinth]
+mod-id = "MT2Xm0ih"
+version = "zv719GLo"

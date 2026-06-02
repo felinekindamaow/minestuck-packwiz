@@ -1,0 +1,13 @@
+name = "Minestuck Extras"
+filename = "ms_extras-1.0.14-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1H3bl8Ep/versions/J8K7kftP/ms_extras-1.0.14-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "41210dfc1f441d037486982e58a599218f251ee48598257e56abe289377418fce5da8a6c7fb8321d32d5b968076c4fc4adb5992edbbfa17433d5934cde863d6e"
+
+[update]
+[update.modrinth]
+mod-id = "1H3bl8Ep"
+version = "J8K7kftP"

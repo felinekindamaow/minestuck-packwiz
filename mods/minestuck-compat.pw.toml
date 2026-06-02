@@ -1,0 +1,13 @@
+name = "Minestuck Compat"
+filename = "MinestuckCompat-1.4.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/APRUHHlE/versions/6mvgozFw/MinestuckCompat-1.4.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "84f77972885ac5e866bdad11a0486973d135bf7a86c9ee6f97126c709de0100f47ad81b634552c6e3faf768fe580254cc038501586f8217c40cff8703eec1672"
+
+[update]
+[update.modrinth]
+mod-id = "APRUHHlE"
+version = "6mvgozFw"

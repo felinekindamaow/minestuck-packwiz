@@ -1,0 +1,13 @@
+name = "ExtraStuck"
+filename = "extrastuck-0.8.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q81oCKcB/versions/kAIovD1X/extrastuck-0.8.3.jar"
+hash-format = "sha512"
+hash = "703157df12b61013f173ad2d4c27b514a706f6aa2a5b1fc4a6bf60c0c5fd06f88db4437d53e0d03225f8e2ad0093cd705deb761e9072e5d8a13833f56da64e2b"
+
+[update]
+[update.modrinth]
+mod-id = "Q81oCKcB"
+version = "kAIovD1X"

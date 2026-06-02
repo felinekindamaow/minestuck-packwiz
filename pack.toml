@@ -1,0 +1,13 @@
+name = "Minestuck"
+author = "Minestuck maintainers, Maow"
+version = "2026.05.31"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d1ba0f2b8b995b56eadf6513b8a16c9acd1d2b9094c780e613d6bdda46e18198"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"

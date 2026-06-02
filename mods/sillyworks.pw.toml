@@ -1,0 +1,13 @@
+name = "Create: sillyworks :3"
+filename = "sillyworks-2.1.7-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WoG6a8gw/versions/he8R3t1T/sillyworks-2.1.7-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "d4c72e84eded3bb01f600878034749b9c6fc11ac8ba67c8c6271b99b2c001dfd0a8eaead0bf5ab14b6750a2f7e4bc115f464e0f66528ba94562de46f7375a575"
+
+[update]
+[update.modrinth]
+mod-id = "WoG6a8gw"
+version = "he8R3t1T"

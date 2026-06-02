@@ -1,0 +1,13 @@
+name = "Minestuck Expanded"
+filename = "minestuck_extended-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rbjy2PXg/versions/16jSxn5k/minestuck_extended-1.3.0.jar"
+hash-format = "sha512"
+hash = "a809522b9cf13bbb4ac9ec8e31f9a360ab4f53759241abe9b466c27d1c2bd4e0f5972ead49cd847721608fdd716882f94ccf61d166cca88d6faab46df30bee10"
+
+[update]
+[update.modrinth]
+mod-id = "Rbjy2PXg"
+version = "16jSxn5k"

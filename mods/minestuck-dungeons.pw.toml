@@ -1,0 +1,13 @@
+name = "Minestuck Dungeons"
+filename = "minestuckdungeons-1.1.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XFHyvWHX/versions/pyUyWWW8/minestuckdungeons-1.1.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "64e4a501144b74fe320f778dd94a2fde096f4891c23ae4fa7e8a371b14be3e2ec1e3c449e4a6628b2e60090d8b4b949d832043fb9bfaa56425479bc648196197"
+
+[update]
+[update.modrinth]
+mod-id = "XFHyvWHX"
+version = "pyUyWWW8"

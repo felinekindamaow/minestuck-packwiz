@@ -1,0 +1,13 @@
+name = "Minestuck: More Faygo"
+filename = "faygoplus-1.0.7-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tv2nPFOF/versions/nVD2y3AB/faygoplus-1.0.7-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "21d97a53241001f7cbb472e1cafbe107fad1a88bcc97b28f022172a1e343cf0c7ef24fd1331e325f833f3232d68048ba1abc9edeee51a5791635b58eebf7e2e8"
+
+[update]
+[update.modrinth]
+mod-id = "Tv2nPFOF"
+version = "nVD2y3AB"

@@ -1,0 +1,13 @@
+name = "Universal Keyboard Controller"
+filename = "universalkeyboard-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vnZAETyV/versions/7zLGnu6H/universalkeyboard-1.2.2.jar"
+hash-format = "sha512"
+hash = "a4db509ec33dd11b0eedc8a5a7462ea57eaddcd14d041924e8ec7c66a6c50b2473261bf52bea4e203d6b0ad380e6f76270b8c446f04517d8b2996d6384969f2a"
+
+[update]
+[update.modrinth]
+mod-id = "vnZAETyV"
+version = "7zLGnu6H"
